@@ -1,0 +1,24 @@
+# MLB Home Run Trends Analysis
+
+Analyzed Major League Baseball data to identify patterns and trends in home run performance across teams, players, and seasons.
+
+## 🧪 Tools Used
+- Python (Pandas, Matplotlib, Seaborn)
+- Jupyter Notebook
+- CSV data from public baseball datasets
+
+## 🔍 Analysis Highlights
+- Correlation between launch angle and home run probability
+- Team-by-team comparison of home run trends
+- Seasonal shifts in hitting performance
+
+## 📌 Key Takeaways
+Gives insights into player performance optimization and team strategy based on batting data.
+
+## 📁 Files
+- Notebook: `mlb_home_run_analysis.ipynb`
+- Visuals: `.png` charts
+- Data: `mlb_home_runs.csv`
+
+## 🔗 View Project
+[https://tripleten636-my.sharepoint.com/:u:/g/personal/lesliehoff_tripleten636_onmicrosoft_com/EaUDuIzFqZhPliGCg_AzMIABbq7ZwUWuobowghamOv3n6Q?e=hpn3Sd]
